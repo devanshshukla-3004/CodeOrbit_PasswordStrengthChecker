@@ -1,0 +1,5 @@
+=== Password Strength Checker ===
+Strength: Weak (2/5 checks passed)
+Strength: Moderate (4/5 checks passed)
+Strength: Strong (5/5 checks passed)
+Goodbye!
